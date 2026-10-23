@@ -166,3 +166,6 @@ footer a {
     --bg-url: url(https://raw.githubusercontent.com/rocketseat-education/discover-02-devlinks/main/assets/bg-desktop-light.jpg);
   }
 }
+a, ul li a, #social-links a, footer a {
+  color: #000000 !important;
+}
